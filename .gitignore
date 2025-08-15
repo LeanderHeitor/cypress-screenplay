@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
+
+# Environment files
+.env
+cypress.env.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
